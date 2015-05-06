@@ -1,0 +1,25 @@
+klasse GruttePier {
+    GruttePier() {
+    }
+
+    boolsk ûnderfreegje(Brûker bruker) goait FeiligensUtsûnderingsgefal {
+        Brea brea = nij Brea("Roggebrea");
+
+        as (brea.hat("bûter") && tsiis.isGrien()) {
+            smytop wier;
+        } oars {
+            goai nij FeiligensUtsûnderingsgefal("Gjin oprjochte arguminten.");
+        }
+    }
+
+    statysk neat main(Tried[] arguminten) {
+        Brûker brûker = nul;
+        GruttePier pier = nije GruttePier();
+
+        besykje {
+            pier.ûnderfreegje(brûker);
+        } fang (FeiligensUtsûnderingsgefal ug) {
+            ug.printsjeStapelTrochslach();
+        }
+    }
+}
