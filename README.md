@@ -1,12 +1,14 @@
 # Javafrysk/J
 
-Javafrysk/J (Jafy/J) is in oersetter dy't programmakoade oerset fan Javafrysk nei standert Java. Mei Jafy/J kin dus Javafrysk draait wurde op kompjûters dy't sels gjin ferstân hawwe fan Javafrysk. <a href="https://github.com/wandernauta/JavafryskJ/releases/download/v0.1/jafy.jar">Dellade...</a>
+Javafrysk/J (Jafy/J) is in oersetter dy't programmakoade oerset fan Javafrysk nei standert Java. Mei Jafy/J kin dus Javafrysk draait wurde op kompjûters dy't sels gjin ferstân hawwe fan Javafrysk.
 
-Javafrysk/J (Jafy/J) is a compiler that translates Javafrysk into standard Java. Using Jafy/J, programs written in Javafrysk can be ported to other machines more easily, including machines that do not support Javafrysk natively. <a href="https://github.com/wandernauta/JavafryskJ/releases/download/v0.1/jafy.jar">Download...</a>
+Javafrysk/J (Jafy/J) is a compiler that translates Javafrysk into standard Java. Using Jafy/J, programs written in Javafrysk can be ported to other machines more easily, including machines that do not support Javafrysk natively.
 
-Javafrysk/J (Jafy/J) is een vertaler die programmacode omzet van Javafrysk naar standaard Java. Met Jafy/J kunnen dus programma's geschreven in Javafrysk eenvoudiger gereed worden gemaakt voor andere computers, zelfs als die computers geen Javafrysk ondersteunen. <a href="https://github.com/wandernauta/JavafryskJ/releases/download/v0.1/jafy.jar">Downloaden...</a>
+Javafrysk/J (Jafy/J) is een vertaler die programmacode omzet van Javafrysk naar standaard Java. Met Jafy/J kunnen dus programma's geschreven in Javafrysk eenvoudiger gereed worden gemaakt voor andere computers, zelfs als die computers geen Javafrysk ondersteunen.
 
-# Gebrûk/Usage/Gebruik:
+<a href="https://github.com/wandernauta/JavafryskJ/releases/download/v0.1/jafy.jar">Dellade/Download (379 KB)</a>
+
+---
 
 ````
 $ cat foarbielden/GruttePier.jafy
